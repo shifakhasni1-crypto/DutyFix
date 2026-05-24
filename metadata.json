@@ -1,0 +1,6 @@
+{
+  "name": "DutyFix",
+  "description": "DutyFix is a premium, modern Qatar contracting company website and client portal tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
